@@ -4,6 +4,12 @@
 	border-radius:5px;
 	padding:0.5rem;
 }
+td{
+	border-radius:5px
+}
 .clr{
 	background:#f2f2f2; 
+}
+.radius{
+	border-radius:5px;
 }
